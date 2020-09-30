@@ -11,7 +11,8 @@ namespace UIS_System.Web_Page.SignUp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+        //need to add the backend code for the signUp page
+        //write the database connections with the database for signUp and add the encryptions 
         }
     }
 }
